@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Webseitentest</title>
+    <link href="https://github.com/Zeaphon/publitest/feed.xml" rel="self" />
+    <link href="https://github.com/Zeaphon/publitest" />
+    <updated>2019-07-24T13:12:40+02:00</updated>
+    <author>
+        <name>Tim Wilden</name>
+    </author>
+    <id>https://github.com/Zeaphon/publitest</id>
+
+    <entry>
+        <title>Landing Page</title>
+        <author>
+            <name>Tim Wilden</name>
+        </author>
+        <link href="https://github.com/Zeaphon/publitest/landing-page.html"/>
+        <id>https://github.com/Zeaphon/publitest/landing-page.html</id>
+
+        <updated>2019-07-24T12:57:08+02:00</updated>
+            <summary>
+                <![CDATA[
+                    HeadlineBody Text Introduction 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1dghps9680">Headline</h2>
+<p>Body Text Introduction</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

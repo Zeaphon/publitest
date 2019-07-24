@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Webseitentest",
+    "description": "",
+    "home_page_url": "https://github.com/Zeaphon/publitest",
+    "feed_url": "https://github.com/Zeaphon/publitest/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tim Wilden"
+    },
+    "items": [
+        {
+            "id": "https://github.com/Zeaphon/publitest/landing-page.html",
+            "url": "https://github.com/Zeaphon/publitest/landing-page.html",
+            "title": "Landing Page",
+            "summary": "HeadlineBody Text Introduction ",
+            "content_html": "<h2 id=\"mcetoc_1dghps9680\">Headline</h2>\n<p>Body Text Introduction</p>\n<p> </p>",
+            "author": {
+                "name": "Tim Wilden"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-24T12:54:43+02:00",
+            "date_modified": "2019-07-24T12:57:08+02:00"
+        }
+    ]
+}
